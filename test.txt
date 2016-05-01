@@ -1,3 +1,6 @@
 world
 
-the aim is finishec
+the aim is finished
+
+
+end time is import!
